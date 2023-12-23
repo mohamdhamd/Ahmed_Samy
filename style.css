@@ -744,4 +744,7 @@ footer {
 	.input-field {
 		width: 100%;
 	}
+	.typedText{
+		font-size: 30px;
+	}
 }
